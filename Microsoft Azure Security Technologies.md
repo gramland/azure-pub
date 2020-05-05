@@ -1,13 +1,13 @@
 # Microsoft Azure Security Technologies
 Docs  Learn  Browse Certifications  Exam AZ-500: Microsoft Azure Security Technologies - Learn
 
- <h3>6 Learning Paths</h3>
  - [Secure your cloud applications in Azure](https://docs.microsoft.com/learn/paths/secure-your-cloud-apps/)
  - [Implement resource management security in Azure](https://docs.microsoft.com/learn/paths/implement-resource-mgmt-security/)
  - [Implement network security in Azure](https://docs.microsoft.com/learn/paths/implement-network-security/)
  - [Implement virtual machine host security in Azure](https://docs.microsoft.com/learn/paths/implement-host-security/)
  - [Manage identity and access in Azure Active Directory](https://docs.microsoft.com/learn/paths/manage-identity-and-access/)
  - [Manage security operations in Azure](https://docs.microsoft.com/learn/paths/manage-security-operations/)
+
 <a href=""></a><br />
 <a href=""></a><br />
 <a href=""></a><br />

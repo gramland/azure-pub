@@ -13,7 +13,7 @@ Learning paths:
  AZ-500 Learning recap
  
  - [AZ-500: Microsoft Azure Security Technologies - Recap](https://docs.microsoft.com/en-us/learn/certifications/exams/az-500)
- - [Browse all security modules</a><br \>
+ - [Browse all security modules](https://docs.microsoft.com/en-us/learn/browse/?term=security)
  
 # Azure Security Center
 
@@ -26,14 +26,7 @@ Please visit the following additional resources to learn more about Azure Securi
 - [Azure Security Center API documentation](https://docs.microsoft.com/en-us/rest/api/securitycenter/)
 - [Azure Security Center API documentation](https://docs.microsoft.com/en-us/rest/api/securitycenter/)
 
-<a href=""></a><br \>
-<a href=""></a><br \>
-<a href=""></a><br \>
-<a href=""></a><br \>
-<a href=""></a><br \>
+# Docs Security 
 
-<a href=""></a><br \>
-<a href=""></a><br \>
-<a href=""></a><br \>
-<a href=""></a><br \>
-<a href=""></a><br \>
+- [Technical guidance from across Microsoft for security strategy and architecture](https://docs.microsoft.com/en-us/security/)
+

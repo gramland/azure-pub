@@ -1,3 +1,9 @@
+
+# Docs Security 
+
+* [Technical guidance from across Microsoft for security strategy and architecture](https://docs.microsoft.com/en-us/security/)
+
+
 # Microsoft Azure Security Technologies
 Docs  Learn  Browse Certifications  Exam AZ-500: Microsoft Azure Security Technologies - Learn
 
@@ -26,7 +32,4 @@ Please visit the following additional resources to learn more about Azure Securi
 - [Azure Security Center API documentation](https://docs.microsoft.com/en-us/rest/api/securitycenter/)
 - [Azure Security Center API documentation](https://docs.microsoft.com/en-us/rest/api/securitycenter/)
 
-# Docs Security 
-
-- [Technical guidance from across Microsoft for security strategy and architecture](https://docs.microsoft.com/en-us/security/)
 

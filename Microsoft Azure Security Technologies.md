@@ -13,8 +13,24 @@ Docs  Learn  Browse Certifications  Exam AZ-500: Microsoft Azure Security Techno
 <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500">AZ-500: Microsoft Azure Security Technologies - Learn</a><br /><a href="https://docs.microsoft.com/en-us/learn/browse/?term=security">Browse all security modules</a><br \>
  
 
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
+# Additional resources
+
+Please visit the following additional resources to learn more about Azure Security and participate in discussions: 
+
+- [Azure Security Center Forum](https://techcommunity.microsoft.com/t5/Azure-Security-Center/bd-p/AzureSecurityCenter)
+- [Azure Security Center Blog](https://techcommunity.microsoft.com/t5/Azure-Security-Center/bg-p/AzureSecurityCenterBlog)
+- [Azure Security Center Feature suggestion](https://feedback.azure.com/forums/347535-azure-security-center)
+- [Azure Security Center documentation](https://docs.microsoft.com/en-us/azure/security-center/security-center-intro)
+- [Azure Security Center API documentation](https://docs.microsoft.com/en-us/rest/api/securitycenter/)
+
+<a href=""></a><br \>
+<a href=""></a><br \>
+<a href=""></a><br \>
+<a href=""></a><br \>
+<a href=""></a><br \>
+
+<a href=""></a><br \>
+<a href=""></a><br \>
+<a href=""></a><br \>
+<a href=""></a><br \>
+<a href=""></a><br \>

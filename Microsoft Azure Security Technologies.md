@@ -1,5 +1,5 @@
-Docs  > Learn >  Browse  
-<h2>Microsoft Azure Security Technologies - Learn</h2>
+<h2>Microsoft Azure Security Technologies</h2>
+Docs  Learn  Browse Certifications  Exam AZ-500: Microsoft Azure Security Technologies - Learn
 
  <h3>6 Learning Paths</h3>
 <a href="https://docs.microsoft.com/learn/paths/secure-your-cloud-apps/">Secure your cloud applications in Azure</a><br />

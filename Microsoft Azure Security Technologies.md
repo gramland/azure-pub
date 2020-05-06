@@ -2,6 +2,9 @@
 # Docs Security 
 
 * [Technical guidance from across Microsoft for security strategy and architecture](https://docs.microsoft.com/en-us/security/)
+* [Azure infrastructure security](https://docs.microsoft.com/en-us/azure/security/fundamentals/infrastructure)
+* [Microsoft security architecture recommendations](https://docs.microsoft.com/en-us/security/compass/compass)
+* [Security Principles](https://docs.microsoft.com/en-us/azure/architecture/framework/security/security-principles)
 
 
 # Microsoft Azure Security Technologies
@@ -30,6 +33,12 @@ Please visit the following additional resources to learn more about Azure Securi
 - [Azure Security Center Feature suggestion](https://feedback.azure.com/forums/347535-azure-security-center)
 - [Azure Security Center documentation](https://docs.microsoft.com/en-us/azure/security-center/security-center-intro)
 - [Azure Security Center API documentation](https://docs.microsoft.com/en-us/rest/api/securitycenter/)
-- [Azure Security Center API documentation](https://docs.microsoft.com/en-us/rest/api/securitycenter/)
+- [Azure Security Center Github](https://github.com/Azure/Azure-Security-Center)
 
+* [Microsoft 365 Security](https://docs.microsoft.com/en-us/microsoft-365/security/?view=o365-worldwide)
+* [Risk compliance Videos](https://docs.microsoft.com/en-us/security/compass/governance-risk-compliance-videos-and-decks)
+
+# Azure Architectures
+
+* [Azure Architectures](https://docs.microsoft.com/en-us/azure/architecture/browse/)
 

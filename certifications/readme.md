@@ -1,4 +1,6 @@
-# Learning and resources by certification topic
+# Learning resources
 
- 
-  * [AZ-400: Microsoft Azure DevOps Solutions](https://github.com/gramland/azure-pub/blob/master/certifications/AZ-400.md)
+  * [Browse MS certifications](https://docs.microsoft.com/en-us/learn/certifications/browse/)
+  * [Browse Learning paths](https://docs.microsoft.com/en-us/learn/browse/)
+  * [Azure devops labs](https://www.azuredevopslabs.com/)
+  * [Github Microsoft Learning Labs directory](https://github.com/MicrosoftLearning?)

@@ -1,4 +1,4 @@
-# Learning and resources by certification topic
+# Learning resources
 
   * [Browse MS certifications](https://docs.microsoft.com/en-us/learn/certifications/browse/)
   * [Browse Learning paths](https://docs.microsoft.com/en-us/learn/browse/)

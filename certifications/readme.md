@@ -5,7 +5,8 @@
   * [Azure devops labs](https://www.azuredevopslabs.com/)
   * [Github Microsoft Learning Labs directory](https://github.com/MicrosoftLearning?)
   
-  
+
+## Certification resources  
   
   * [AZ-400: Microsoft Azure DevOps Solutions](https://github.com/gramland/azure-pub/blob/master/certifications/AZ-400.md)
   * [AZ-300, AZ-301: Microsoft Certified: Azure Solutions Architect Expert](https://github.com/gramland/azure-pub/blob/master/certifications/AZ-300-301.md)
